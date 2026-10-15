@@ -24,6 +24,7 @@ ssh cp32014@atlantica.lad.pucrs.br
 ```
 * **Username:** `cp32014`
 * **Senha:** `IJmupb2w6gE3qLBtbhpH`
+Ijmupb2w6gE3qLBtbhpH
 
 ---
 
